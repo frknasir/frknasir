@@ -1,6 +1,6 @@
 # Hi there, I'm Faruk Nasir 👋
 
-![Profile views]([https://gpvc.arturio.dev/frknasir](https://visitor-badge.laobi.icu/badge?page_id=frknasir))
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=frknasir)
 
 ## About Me
 
